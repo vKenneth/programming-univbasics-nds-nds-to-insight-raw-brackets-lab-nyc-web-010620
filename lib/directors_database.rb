@@ -18,4 +18,12 @@ names=["Jaws", "E.T","Schindler"]
   movies=[{:name =>"Jaws", :movie =>"Close Encounters of the Third Kind"},
   {:name => "E.T", :movie => "Raiders of the Lost Ark"},
   {:name => "Schindler", :movie => " the Extra-terrestrial list "}]
+  "1st Director's Name = Martin Scorsese"
+  "2nd Director's Name = Stanley Kubrick"
+  "3rd Director's Name = Ari Aster"
+  
+  hash = {
+  "1st Director's Name"=>1,000,000
+  "2nd Director's Name"=>2,000,000,
+  "3rd Director's Name"=>3,000,000
   
